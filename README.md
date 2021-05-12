@@ -58,8 +58,8 @@
 ##### •	User Experience & Interaction Design for AR/VR/MR/XR
 ##### •	Introduction to Self-Driving Cars
 ##### •	Intro to AR/VR/MR/XR: Technologies, Applications & Issues
-##### •	VR and 360 Video Production
-##### •	Introduction to Augmented Reality and ARCore
+##### •	VR and 360 Video Production: https://www.coursera.org/account/accomplishments/certificate/QPTKDVGD9PE3 
+##### •	Introduction to Augmented Reality and ARCore: https://www.coursera.org/account/accomplishments/certificate/3UPW62CPV7FB 
 ### Project Management:
 ##### •	University of California, Irvine: Introduction to Project Management Principles and Practices.
 ##### •	Initiating and Planning Projects: https://coursera.org/share/56259223a542be58ffb8d9605c82df5d 
@@ -72,10 +72,10 @@
 ##### •	Java for Android:  https://coursera.org/share/2f0e2ca441d1a28c3689d30b68cc60d1
 ##### •	Android App Components - Intents, Activities, and Broadcast Receivers:  https://coursera.org/share/3c1d50fe90665d43b8cb71b0c4255049 
 ### Quantum knowledge:
-##### •	Course Certificate for Fundamentals of Macroscopic and Microscopic Thermodynamics
-##### •	Course Certificate for Analyzing the Universe
-##### •	Course Certificate for Quantum Optics 1 : Single Photons
-##### •	Course Certificate for From the Big Bang to Dark Energy
+##### •	Course Certificate for Fundamentals of Macroscopic and Microscopic Thermodynamics: https://www.coursera.org/account/accomplishments/certificate/4AMMMUJVK8FQ
+##### •	Course Certificate for Analyzing the Universe: https://www.coursera.org/account/accomplishments/certificate/RKNY5RBPKK4X 
+##### •	Course Certificate for Quantum Optics 1 : Single Photons: https://www.coursera.org/account/accomplishments/certificate/KQM45VGT23JK 
+##### •	Course Certificate for From the Big Bang to Dark Energy: https://www.coursera.org/account/accomplishments/certificate/THWHVLHDW2LL 
 ### Organic solar cells course certificate from Technical University of Denmark (DTU):  https://coursera.org/share/a3a9fae4f72fad8aa604507ba35b5e05 
 ### Nanotechnology and Nanosensors:  https://coursera.org/share/8825fa719fe7bd9e51719e63d3bc51a3 
 ### Optical Robot
