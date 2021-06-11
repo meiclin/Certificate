@@ -52,7 +52,7 @@
 ##### •	Google IT Support Professional Certificate (5 Courses Certificates): https://coursera.org/share/444f79de7e05973e6d5aee19ac228f34
 ##### •	IBM (5 Courses Certificates): https://coursera.org/share/444f79de7e05973e6d5aee19ac228f34
 ##### •	Introduction to Cyber Attacks @ New York University:  https://coursera.org/share/f4fb8c54a1361ece8b3c8f9bb6b6c412 
-##### Emerging Technologies:
+### Emerging Technologies:
 ##### •	Extended Reality for Everybody Specialization: https://www.coursera.org/account/accomplishments/specialization/certificate/NCSTKUTAQM3Z
 ##### •	E Emerging Technologies: From Smartphones to IoT to Big Data (4 Coursers Certificates):  https://coursera.org/share/d239ed7446c54df186c3238bd31e9a4c 
 ##### •	Developing AR/VR/MR/XR Apps with WebXR, Unity & Unreal: https://www.coursera.org/account/accomplishments/certificate/EUWK27KG55BU
