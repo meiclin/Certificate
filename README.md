@@ -41,8 +41,8 @@
 ##### •	Bioinformatics at University of California San Diego:  https://www.coursera.org/account/accomplishments/verify/CXBZJJXS2RAL 
 ##### •	Finding Hidden Messages in DNA (Bioinformatics I): https://coursera.org/share/dcb5989b4aaf5a87306f80b924d24ec6 
 ##### •	COVID-19 Training for Healthcare Workers: https://coursera.org/share/3ec1b0433e1764105743e6f517896832 
-##### •	AI for Medicine Specialization
-##### •	AI in Healthcare Specialization
+##### •	AI for Medicine Specialization: https://www.coursera.org/account/accomplishments/certificate/6HYZPHYNVP7E
+##### •	AI in Healthcare Specialization: https://www.coursera.org/account/accomplishments/certificate/GW2QV49LPWXS
 ### Cybersecurity:
 ##### •	Palo Alto Networks Cybersecurity Specialization (5 Courses Certificates):  https://www.coursera.org/account/accomplishments/specialization/WY5TKF8DRCXF
 ##### •	Cryptography I at Stanford University: https://www.coursera.org/account/accomplishments/verify/UEGEMRZUJEAM
