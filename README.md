@@ -1,10 +1,10 @@
 # Certificate
 ### Life Goal: Healthy, Happy, and Wealthy
-#### Be a full-time mother, I learn diverse fields of knowledge and skills because of my life goal, and related skills I learn as the followings.
-##### ➢	General skills: Machine learning and data mining for analyzing. AI for automatic activities. Cybersecurity for information security. Programming language for estimating possibility of software. Project management and software project management with agile to make projects successfully on time.
-##### ➢	Plans and related skills for healthy life: customize personal healthy data and make a personal AI doctor. Related skill: general skills, bio-information, genome data science, COVID-19, AI for medicine (in progress), AI for healthy (in progress)
-##### ➢	Plans and related skills for happy life: personal AI secretary with activities suggestions, and tools development. Related skill: nano-technology, AR/VR/MR/XR, App and Web skill, optical robot. 
-##### ➢	Plans and related skills for Wealthy: AI financial management for personal financial plan, customize periodic summary, and warning settings. Related skill: machine learning, data science, deep learning, AI, project management.
+#### As a full-time mother, I pursued a broad spectrum of knowledge and skills aligned with my life goals. Once my children began school, I transitioned into part-time work at their school and enrolled in a Master of Education program in Special Education to deepen my expertise in supporting students with special needs—my current area of focus. My next career step is to become a certified special education teacher to expand my impact.
+##### ➢	General skills: MProficient in machine learning and data mining for analytical insights; AI for task automation; cybersecurity for safeguarding information; programming languages for software feasibility analysis; and project management—including agile methodologies—for timely and successful project delivery.
+##### ➢	Plans and related skills for healthy life: cDeveloping personalized health data systems and an AI-powered personal health assistant. Related skills: general technical competencies, bioinformatics, genome data science, COVID-19 research, AI in medicine (in progress), and AI for health optimization (in progress).
+##### ➢	Plans and related skills for happy life: Creating a personal AI assistant for activity planning and tool development. Related skills: nanotechnology, immersive technologies (AR/VR/MR/XR), app and web development, and optical robotics.
+##### ➢	Plans and related skills for Wealthy: Building AI-driven financial management tools for personalized planning, automated summaries, and alert systems. Related skills: machine learning, data science, deep learning, AI applications, and project management.
 ### •	Certificates on Coursera.org 
 ###### (Details on https://www.linkedin.com/in/meiclin, https://github.com/meiclin?tab=repositories)
 ###	Deep Learning and AI Specialization:
